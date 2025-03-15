@@ -1,22 +1,15 @@
 <p align="left">
   <a href="https://github.com/Emre-Kibar">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20I%20am%20Emre%20Kibar&font=Fira%20Code&center=true&width=400&height=45&vCenter=true&pause=300&size=25" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20I%20am%20Emre%20Kibar.&font=Fira%20Code&center=true&width=400&height=45&vCenter=true&pause=300&size=25" />
   </a>
 </p>
 
+- 🎓 3rd Grade Computer Engineering Student at Gebze Technical University.
+- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/emrethekibar) | [Email](emre.kibar8@gmail.com)  
 
+### 🔧 Tech Stack:
+- **Languages:** Java/Java Spring Boot, C/C++, Python, JavaScript(Node.js, Express.js), HTML/CSS, R, SQL(PostgreSQL, MySQL)
 
-<!--
-**Emre-Kibar/Emre-Kibar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Stats:
+![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emre-Kibar&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
