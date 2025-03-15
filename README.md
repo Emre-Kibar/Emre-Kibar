@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="left">
+  <a href="https://github.com/Emre-Kibar">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Emre%20Kibar&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=400&size=25" />
+</p>
 
 <!--
 **Emre-Kibar/Emre-Kibar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
