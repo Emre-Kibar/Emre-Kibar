@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/Emre-Kibar">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Emre%20Kibar&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=400&size=25" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,%20I%20%am20Emre%20Kibar&font=Fira%20Code&center=true&width=250&height=45&vCenter=true&pause=300&size=25" />
 </p>
 
 <!--
