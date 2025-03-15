@@ -10,6 +10,4 @@
 ### 🔧 Tech Stack:
 - **Languages:** Java/Java Spring Boot, C/C++, Python, JavaScript(Node.js, Express.js), HTML/CSS, R, SQL(PostgreSQL, MySQL)
 
-### 📈 GitHub Stats:
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emre-Kibar&show_icons=true&theme=radical)
 
