@@ -5,7 +5,7 @@
 </p>
 
 - 🎓 3rd Grade Computer Engineering Student at Gebze Technical University.
-- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/emrethekibar) | [Email](emre.kibar8@gmail.com)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/emrethekibar) | [Email](emre.kibar8@gmail.com)  
 
 ### 🔧 Tech Stack:
 - **Languages:** Java/Java Spring Boot, C/C++, Python, JavaScript(Node.js, Express.js), HTML/CSS, R, SQL(PostgreSQL, MySQL)
